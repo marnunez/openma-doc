@@ -6,7 +6,7 @@ ma::io::File
 Detailed Description
 --------------------
 
-Internally this class uses automatically a buffer mapped into computer's memory (see [https://en.wikipedia.org/wiki/Memory-mapped\_file](https://en.wikipedia.org/wiki/Memory-mapped_file.html)).
+Internally this class uses automatically a buffer mapped into computer's memory (see [https://en.wikipedia.org/wiki/Memory-mapped\_file](https://en.wikipedia.org/wiki/Memory-mapped_file)).
 
 Warning: Currently the Mode Append has no effect on this device.
 
